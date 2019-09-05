@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: MeherSlimene's CV
 ---
-# Isaac Newton
+# Meher Slimene
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
